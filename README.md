@@ -14,6 +14,6 @@ Rating Distribution (Task 3) - Violin plot showing rating distribution for categ
 ### Installation
 Clone the repository and install required libraries:
 ```sh
-git clone https://github.com/Pritheshwaran/Data-Analyst-Internship.git
+git clone https://github.com/Pritheshwaran/Data-Analyst-Internship
 cd Data-Analyst-Internship
 pip install -r requirements.txt
